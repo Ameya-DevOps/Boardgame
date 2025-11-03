@@ -58,7 +58,7 @@ jobs:
 
     - name: Build Docker Image
       run: |
-        docker build -t ameya152/boardgame:latest .
+        docker build -t ameya1512/boardgame:latest .
 
     
     
